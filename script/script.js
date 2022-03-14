@@ -30,7 +30,6 @@ TweenMax.from('.row-2',2,{
 });
 TweenMax.from('.contact_me',2,{
     delay:2.5,
-    rotation:"-180deg",
     opacity:0,
 });
 TweenMax.from('.scroll_down_elements',2,{
